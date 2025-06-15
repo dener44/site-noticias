@@ -7,6 +7,7 @@
 html{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1em;
+    background-color: lightgray;
 }
 header{
     background-color: rgb(187, 187, 187);
